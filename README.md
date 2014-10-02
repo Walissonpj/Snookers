@@ -1,5 +1,4 @@
-<h1>Snookers
-<h3>Status dos Problemas
+<h1>Status dos Problemas [Snookers]
 
 ----------------------------
 <h5>URI
