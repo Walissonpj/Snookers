@@ -4,7 +4,7 @@
 
 Problema      | Status
 ------------- | -------------
-1034          | TLE
+1034          | [background: #4183c4] TLE 
 1036          | AC
 1474          | AC
 
