@@ -1,6 +1,5 @@
 <h1>Status dos Problemas [Snookers]
 
-----------------------------
 <h5>URI
 
 Problema      | Status
