@@ -60,12 +60,10 @@ int main() {
 					if(distance(res[i].x,res[i].y,block[j].x,block[j].y)) { 
 						passei[j] =1 ;
 						cont += block[j].val;
-//						cout << " * " << i << j << "\n";
 					}
 					ver = 0;
 				}
 			}
-//			cout << " ** " << res[i].x << " " << res[i].y << " " << cont <<"\n";
 		}
 
 		if(cont > maior)

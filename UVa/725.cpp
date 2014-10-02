@@ -31,7 +31,7 @@ int main() {
 				m[g] ++;
 				m[h] ++;
 					if(m[e] == 1 && m[f] == 1 && m[g] == 1 && m[h] == 1 && m[j] == 1) {
-						z = n * i;
+						z = i * n;
 	 					if(z > 98765) break;
 						aux = z;
 						w = (z/10000);
