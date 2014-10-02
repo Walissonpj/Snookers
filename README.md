@@ -1,8 +1,7 @@
 <h1>Snookers
-
 <h3>Status dos Problemas
 
-=============================
+----------------------------
 <h5>URI
 
 Problema      | Status
@@ -10,7 +9,7 @@ Problema      | Status
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
-=============================
+----------------------------
 <h5>UVa
 
 Problema      | Status
@@ -18,7 +17,7 @@ Problema      | Status
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
-=============================
+----------------------------
 <h5>Spoj
 
 Problema      | Status
@@ -26,4 +25,4 @@ Problema      | Status
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
-=============================
+----------------------------
